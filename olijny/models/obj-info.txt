@@ -1,14 +1,14 @@
 read from: C:\Users\slmrgo\Desktop\olijny\models\all
 ----------------------------------------------------
 unused:
--krizo.dff
--basicmain.txd
--basicmap.col
--dead_tree.dff
--relsikrizo1.dff
--relsikrizo2.dff
--luc_test.dff
--luc.txd
--mwo_test.dff
--mwo.txd
--char.col
+-krizo.dff crashed
+-basicmain.txd test texture quality
+-basicmap.col test col
+-dead_tree.dff tes poligon
+-relsikrizo1.dff crashed
+-relsikrizo2.dff crashed
+-luc_test.dff crashed
+-luc.txd crashed
+-mwo_test.dff crashed
+-mwo.txd crashed
+-char.col crashed
