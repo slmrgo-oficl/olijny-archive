@@ -20,6 +20,11 @@ objs
 5018, krizoR2, railroadtex, 300, 0
 5019, krizoR3, railroadtex, 300, 0
 5020, gravel2, railroadtex, 300, 0
+5021, krizodeta6, railroadtex, 300, 0
+5022, krizodeta7, railroadtex, 300, 0
+5023, krizodeta8, railroadtex, 300, 0
+5024, krizodeta9, railroadtex, 300, 0
+5025, krizodeta10, railroadtex, 300, 0
 end
 tobj
 end
