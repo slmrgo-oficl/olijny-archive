@@ -1,0 +1,34 @@
+# basicmap.ide exported from basic_sa_map_oneobj.max, on 8/2/2006 9:44:25 PM 
+objs
+5000, relsi2mm, railroadtex, 300, 0
+5001, detal2mm, railroadtex, 300, 0
+5002, dead_tree, basicmain, 300, 0
+5004, platform, railroadtex, 300, 0
+5005, krizoL1, railroadtex, 300, 0
+5006, krizoL2, railroadtex, 300, 0
+5007, krizoL3, railroadtex, 300, 0
+5008, krizoLdetal1, railroadtex, 300, 0
+5009, krizoLdetal2, railroadtex, 300, 0
+5010, krizoLdetal3, railroadtex, 300, 0
+5011, krizodetal1, railroadtex, 300, 0
+5012, krizodetal2, railroadtex, 300, 0
+5013, krizodetal3, railroadtex, 300, 0
+5014, krizodetal4, railroadtex, 300, 0
+5015, krizodetal5, railroadtex, 300, 0
+5016, gravel1, railroadtex, 300, 0
+5017, krizoR1, railroadtex, 300, 0
+5018, krizoR2, railroadtex, 300, 0
+5019, krizoR3, railroadtex, 300, 0
+5020, gravel2, railroadtex, 300, 0
+end
+tobj
+end
+path
+end
+2dfx
+end
+anim
+end
+txdp
+end
+

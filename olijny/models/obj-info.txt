@@ -1,0 +1,14 @@
+read from: C:\Users\slmrgo\Desktop\olijny\models\all
+----------------------------------------------------
+unused:
+-krizo.dff
+-basicmain.txd
+-basicmap.col
+-dead_tree.dff
+-relsikrizo1.dff
+-relsikrizo2.dff
+-luc_test.dff
+-luc.txd
+-mwo_test.dff
+-mwo.txd
+-char.col
